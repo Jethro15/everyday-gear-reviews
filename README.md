@@ -1,2 +1,2 @@
 # everyday-gear-reviews
-Website for reviewing everyday carry and tech.
+A website for reviewing everyday carry items and technology.
